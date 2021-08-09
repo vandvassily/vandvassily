@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=vandvassily&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=vandvassily&show_icons=true&theme=material-palenight)
 ![](https://github-profile-trophy.vercel.app/?username=vandvassily&theme=onedark&column=6)
 
 <!--
